@@ -1,7 +1,6 @@
 import 'package:mobx/mobx.dart';
 
 import '../../../data/models/result_search_model.dart';
-import '../../../domain/use_cases/search_by_text.dart';
 import '../../../external/datasource/github_datasource.dart';
 part 'search_page_store.g.dart';
 
